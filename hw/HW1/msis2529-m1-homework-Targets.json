@@ -1,0 +1,60 @@
+[{
+      "category": "Appliances",
+      "quota": 1100000.00
+    },
+    {
+      "category": "Binders and Binder Accessories",
+      "quota": 1260000.00
+    },
+    {
+      "category": "Bookcases",
+      "quota": 2140000.00
+    },
+    {
+      "category": "Chairs & Chairmats",
+      "quota": 4120000.00
+    },
+    {
+      "category": "Computer Peripherals",
+      "quota": 2040000.00
+    },
+    {
+      "category": "Copiers and Fax",
+      "quota": 2500000.00
+    },
+    {
+      "category": "Decor",
+      "quota": 728000.00
+    },
+    {
+      "category": "Envelopes",
+      "quota": 378000.00 
+    },
+    {
+      "category": "Office Furnishings",
+      "quota": 1300000.00
+    },
+    {
+      "category": "Office Machines",
+      "quota": 3800000.00
+    },
+    {
+      "category": "Paper",
+      "quota": 910000.00
+    },
+    {
+      "category": "Pens & Art Supplies",
+      "quota": 350000.00
+    },
+    {
+      "category": "Scissors, Rulers and Trimmers",
+      "quota": 183000.00
+    },
+    {
+      "category": "Tables",
+      "quota": 3950000.00
+    },
+    {
+      "category": "Telephones and Communication",
+      "quota": 4010000.00
+}]
